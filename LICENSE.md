@@ -1,4 +1,4 @@
-# 
+# Enhance Jupyter Notebook for macOS (через Anaconda) with Jupyter Notebook for macOS (через Anaconda) advanced Addon: multi-sheet-management & cloud-sync, the #1 addon. Includes
 
 
 
